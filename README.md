@@ -1,2 +1,2 @@
 # Suffix-Trees
-Advances algorithms assignment 2
+Advanced algorithms assignment 2
