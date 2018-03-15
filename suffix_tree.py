@@ -10,7 +10,6 @@ class Node(object):
     """
     def __init__(self):
         self.suffix_node = -1
-        #self.indices=[]
 
     def __repr__(self):
         return "Node(suffix link: %d)"%self.suffix_node
